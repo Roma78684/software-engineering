@@ -1,0 +1,15 @@
+C:\Users\ks036\source\repos\Task1_Builder\Task1_Builder\bin\Debug\net10.0\Task1_Builder.exe
+C:\Users\ks036\source\repos\Task1_Builder\Task1_Builder\bin\Debug\net10.0\Task1_Builder.deps.json
+C:\Users\ks036\source\repos\Task1_Builder\Task1_Builder\bin\Debug\net10.0\Task1_Builder.runtimeconfig.json
+C:\Users\ks036\source\repos\Task1_Builder\Task1_Builder\bin\Debug\net10.0\Task1_Builder.dll
+C:\Users\ks036\source\repos\Task1_Builder\Task1_Builder\bin\Debug\net10.0\Task1_Builder.pdb
+C:\Users\ks036\source\repos\Task1_Builder\Task1_Builder\obj\Debug\net10.0\Task1_Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ks036\source\repos\Task1_Builder\Task1_Builder\obj\Debug\net10.0\Task1_Builder.AssemblyInfoInputs.cache
+C:\Users\ks036\source\repos\Task1_Builder\Task1_Builder\obj\Debug\net10.0\Task1_Builder.AssemblyInfo.cs
+C:\Users\ks036\source\repos\Task1_Builder\Task1_Builder\obj\Debug\net10.0\Task1_Builder.csproj.CoreCompileInputs.cache
+C:\Users\ks036\source\repos\Task1_Builder\Task1_Builder\obj\Debug\net10.0\Task1_Builder.dll
+C:\Users\ks036\source\repos\Task1_Builder\Task1_Builder\obj\Debug\net10.0\refint\Task1_Builder.dll
+C:\Users\ks036\source\repos\Task1_Builder\Task1_Builder\obj\Debug\net10.0\Task1_Builder.pdb
+C:\Users\ks036\source\repos\Task1_Builder\Task1_Builder\obj\Debug\net10.0\Task1_Builder.genruntimeconfig.cache
+C:\Users\ks036\source\repos\Task1_Builder\Task1_Builder\obj\Debug\net10.0\ref\Task1_Builder.dll
+C:\Users\ks036\source\repos\Task1_Builder\Task1_Builder\obj\Debug\net10.0\Task1_Bu.B6CD79FF.Up2Date

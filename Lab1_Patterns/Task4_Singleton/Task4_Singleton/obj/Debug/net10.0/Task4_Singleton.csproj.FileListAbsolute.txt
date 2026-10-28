@@ -1,0 +1,16 @@
+C:\Users\ks036\source\repos\Task4_Singleton\Task4_Singleton\bin\Debug\net10.0\Task4_Singleton.exe
+C:\Users\ks036\source\repos\Task4_Singleton\Task4_Singleton\bin\Debug\net10.0\Task4_Singleton.deps.json
+C:\Users\ks036\source\repos\Task4_Singleton\Task4_Singleton\bin\Debug\net10.0\Task4_Singleton.runtimeconfig.json
+C:\Users\ks036\source\repos\Task4_Singleton\Task4_Singleton\bin\Debug\net10.0\Task4_Singleton.runtimeconfig.dev.json
+C:\Users\ks036\source\repos\Task4_Singleton\Task4_Singleton\bin\Debug\net10.0\Task4_Singleton.dll
+C:\Users\ks036\source\repos\Task4_Singleton\Task4_Singleton\bin\Debug\net10.0\Task4_Singleton.pdb
+C:\Users\ks036\source\repos\Task4_Singleton\Task4_Singleton\obj\Debug\net10.0\Task4_Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ks036\source\repos\Task4_Singleton\Task4_Singleton\obj\Debug\net10.0\Task4_Singleton.AssemblyInfoInputs.cache
+C:\Users\ks036\source\repos\Task4_Singleton\Task4_Singleton\obj\Debug\net10.0\Task4_Singleton.AssemblyInfo.cs
+C:\Users\ks036\source\repos\Task4_Singleton\Task4_Singleton\obj\Debug\net10.0\Task4_Singleton.csproj.CoreCompileInputs.cache
+C:\Users\ks036\source\repos\Task4_Singleton\Task4_Singleton\obj\Debug\net10.0\Task4_Singleton.dll
+C:\Users\ks036\source\repos\Task4_Singleton\Task4_Singleton\obj\Debug\net10.0\refint\Task4_Singleton.dll
+C:\Users\ks036\source\repos\Task4_Singleton\Task4_Singleton\obj\Debug\net10.0\Task4_Singleton.pdb
+C:\Users\ks036\source\repos\Task4_Singleton\Task4_Singleton\obj\Debug\net10.0\Task4_Singleton.genruntimeconfig.cache
+C:\Users\ks036\source\repos\Task4_Singleton\Task4_Singleton\obj\Debug\net10.0\ref\Task4_Singleton.dll
+C:\Users\ks036\source\repos\Task4_Singleton\Task4_Singleton\obj\Debug\net10.0\Task4_Si.A03AE9F6.Up2Date

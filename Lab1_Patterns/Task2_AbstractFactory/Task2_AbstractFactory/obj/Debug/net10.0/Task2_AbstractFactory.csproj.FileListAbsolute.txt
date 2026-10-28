@@ -1,0 +1,16 @@
+C:\Users\ks036\source\repos\Task2_AbstractFactory\Task2_AbstractFactory\bin\Debug\net10.0\Task2_AbstractFactory.exe
+C:\Users\ks036\source\repos\Task2_AbstractFactory\Task2_AbstractFactory\bin\Debug\net10.0\Task2_AbstractFactory.deps.json
+C:\Users\ks036\source\repos\Task2_AbstractFactory\Task2_AbstractFactory\bin\Debug\net10.0\Task2_AbstractFactory.runtimeconfig.json
+C:\Users\ks036\source\repos\Task2_AbstractFactory\Task2_AbstractFactory\bin\Debug\net10.0\Task2_AbstractFactory.runtimeconfig.dev.json
+C:\Users\ks036\source\repos\Task2_AbstractFactory\Task2_AbstractFactory\bin\Debug\net10.0\Task2_AbstractFactory.dll
+C:\Users\ks036\source\repos\Task2_AbstractFactory\Task2_AbstractFactory\bin\Debug\net10.0\Task2_AbstractFactory.pdb
+C:\Users\ks036\source\repos\Task2_AbstractFactory\Task2_AbstractFactory\obj\Debug\net10.0\Task2_AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ks036\source\repos\Task2_AbstractFactory\Task2_AbstractFactory\obj\Debug\net10.0\Task2_AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\ks036\source\repos\Task2_AbstractFactory\Task2_AbstractFactory\obj\Debug\net10.0\Task2_AbstractFactory.AssemblyInfo.cs
+C:\Users\ks036\source\repos\Task2_AbstractFactory\Task2_AbstractFactory\obj\Debug\net10.0\Task2_AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\ks036\source\repos\Task2_AbstractFactory\Task2_AbstractFactory\obj\Debug\net10.0\Task2_AbstractFactory.dll
+C:\Users\ks036\source\repos\Task2_AbstractFactory\Task2_AbstractFactory\obj\Debug\net10.0\refint\Task2_AbstractFactory.dll
+C:\Users\ks036\source\repos\Task2_AbstractFactory\Task2_AbstractFactory\obj\Debug\net10.0\Task2_AbstractFactory.pdb
+C:\Users\ks036\source\repos\Task2_AbstractFactory\Task2_AbstractFactory\obj\Debug\net10.0\Task2_AbstractFactory.genruntimeconfig.cache
+C:\Users\ks036\source\repos\Task2_AbstractFactory\Task2_AbstractFactory\obj\Debug\net10.0\ref\Task2_AbstractFactory.dll
+C:\Users\ks036\source\repos\Task2_AbstractFactory\Task2_AbstractFactory\obj\Debug\net10.0\Task2_Ab.79242759.Up2Date

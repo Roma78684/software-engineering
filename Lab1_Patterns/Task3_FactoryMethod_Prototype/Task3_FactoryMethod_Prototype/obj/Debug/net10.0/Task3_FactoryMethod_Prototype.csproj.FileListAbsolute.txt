@@ -1,0 +1,16 @@
+C:\Users\ks036\source\repos\Task3_FactoryMethod_Prototype\Task3_FactoryMethod_Prototype\bin\Debug\net10.0\Task3_FactoryMethod_Prototype.exe
+C:\Users\ks036\source\repos\Task3_FactoryMethod_Prototype\Task3_FactoryMethod_Prototype\bin\Debug\net10.0\Task3_FactoryMethod_Prototype.deps.json
+C:\Users\ks036\source\repos\Task3_FactoryMethod_Prototype\Task3_FactoryMethod_Prototype\bin\Debug\net10.0\Task3_FactoryMethod_Prototype.runtimeconfig.json
+C:\Users\ks036\source\repos\Task3_FactoryMethod_Prototype\Task3_FactoryMethod_Prototype\bin\Debug\net10.0\Task3_FactoryMethod_Prototype.runtimeconfig.dev.json
+C:\Users\ks036\source\repos\Task3_FactoryMethod_Prototype\Task3_FactoryMethod_Prototype\bin\Debug\net10.0\Task3_FactoryMethod_Prototype.dll
+C:\Users\ks036\source\repos\Task3_FactoryMethod_Prototype\Task3_FactoryMethod_Prototype\bin\Debug\net10.0\Task3_FactoryMethod_Prototype.pdb
+C:\Users\ks036\source\repos\Task3_FactoryMethod_Prototype\Task3_FactoryMethod_Prototype\obj\Debug\net10.0\Task3_FactoryMethod_Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ks036\source\repos\Task3_FactoryMethod_Prototype\Task3_FactoryMethod_Prototype\obj\Debug\net10.0\Task3_FactoryMethod_Prototype.AssemblyInfoInputs.cache
+C:\Users\ks036\source\repos\Task3_FactoryMethod_Prototype\Task3_FactoryMethod_Prototype\obj\Debug\net10.0\Task3_FactoryMethod_Prototype.AssemblyInfo.cs
+C:\Users\ks036\source\repos\Task3_FactoryMethod_Prototype\Task3_FactoryMethod_Prototype\obj\Debug\net10.0\Task3_FactoryMethod_Prototype.csproj.CoreCompileInputs.cache
+C:\Users\ks036\source\repos\Task3_FactoryMethod_Prototype\Task3_FactoryMethod_Prototype\obj\Debug\net10.0\Task3_FactoryMethod_Prototype.dll
+C:\Users\ks036\source\repos\Task3_FactoryMethod_Prototype\Task3_FactoryMethod_Prototype\obj\Debug\net10.0\refint\Task3_FactoryMethod_Prototype.dll
+C:\Users\ks036\source\repos\Task3_FactoryMethod_Prototype\Task3_FactoryMethod_Prototype\obj\Debug\net10.0\Task3_FactoryMethod_Prototype.pdb
+C:\Users\ks036\source\repos\Task3_FactoryMethod_Prototype\Task3_FactoryMethod_Prototype\obj\Debug\net10.0\Task3_FactoryMethod_Prototype.genruntimeconfig.cache
+C:\Users\ks036\source\repos\Task3_FactoryMethod_Prototype\Task3_FactoryMethod_Prototype\obj\Debug\net10.0\ref\Task3_FactoryMethod_Prototype.dll
+C:\Users\ks036\source\repos\Task3_FactoryMethod_Prototype\Task3_FactoryMethod_Prototype\obj\Debug\net10.0\Task3_Fa.FE42F4FF.Up2Date
